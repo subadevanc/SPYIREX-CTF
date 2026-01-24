@@ -77,7 +77,7 @@ python3 RsaCtfTool.py -n 391 -e 7 --uncipher 185
 ### Flag
 
 ```
-JCE{rs4_sm4ll_pr1m3s}
+JCE{rsa_sm4ll_pr1m3s}
 ```
 
 ## Key Takeaways

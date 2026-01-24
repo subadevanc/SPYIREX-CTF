@@ -56,7 +56,7 @@ print(f"Layer 4: {layer4}")
 Output:
 ```
 Layer 1: V0RJYVZsSFJTVTUwYzJRPQ==
-Layer 2: WDIaVlHRSU50c2Q=
+Layer 2: WDIxYVZlSFJTU50c2Q=
 Layer 3: SkNFe2IwczY0X2wxeWVyczF9
 Layer 4: JCE{b0s64_l1yers1}
 ```
