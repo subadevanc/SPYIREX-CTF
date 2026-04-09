@@ -11,9 +11,9 @@ You are given an Android APK (`spyirex.apk`) that asks for a password and prints
 
 ## Screenshots
 
-![Mission Override screenshot 1](../../imports/assets/image-0025.png)
-![Mission Override screenshot 2](../../imports/assets/image-0031.png)
-![Mission Override screenshot 3](../../imports/assets/image-0037.png)
+![Mission Override screenshot 1](../../imports/extract/assets/image-0025.png)
+![Mission Override screenshot 2](../../imports/extract/assets/image-0031.png)
+![Mission Override screenshot 3](../../imports/extract/assets/image-0037.png)
 
 ## Approach
 1. Decompile the APK with `jadx-gui`.

@@ -12,8 +12,8 @@ XOR mixing, byte rotation, adjacent-byte swapping, and LCG-derived keys.
 
 ## Screenshots
 
-![Twisted Validator screenshot 1](../../imports/assets/image-0075.png)
-![Twisted Validator screenshot 2](../../imports/assets/image-0080.png)
+![Twisted Validator screenshot 1](../../imports/extract/assets/image-0075.png)
+![Twisted Validator screenshot 2](../../imports/extract/assets/image-0080.png)
 
 ## Reverse Strategy
 The forward validator pipeline was reversed in opposite order:

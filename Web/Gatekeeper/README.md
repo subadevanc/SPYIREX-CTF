@@ -15,10 +15,10 @@ Target site from event writeup:
 
 ## Screenshots
 
-![Gatekeeper screenshot 1](../../imports/assets/image-0042.png)
-![Gatekeeper screenshot 2](../../imports/assets/image-0048.png)
-![Gatekeeper screenshot 3](../../imports/assets/image-0053.png)
-![Gatekeeper screenshot 4](../../imports/assets/image-0058.png)
+![Gatekeeper screenshot 1](../../imports/extract/assets/image-0042.png)
+![Gatekeeper screenshot 2](../../imports/extract/assets/image-0048.png)
+![Gatekeeper screenshot 3](../../imports/extract/assets/image-0053.png)
+![Gatekeeper screenshot 4](../../imports/extract/assets/image-0058.png)
 
 ## Approach
 1. Register and log in as a normal user and observe fake flag behavior.
