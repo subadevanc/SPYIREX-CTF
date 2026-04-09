@@ -13,6 +13,19 @@ The key logic is implemented in a downloadable `auth.wasm` file.
 Target site from event writeup:
 `https://gatekeeper-spyirex.ct.ws/`
 
+## Screenshots
+
+The original screenshots were extracted from the uploaded PDF and are now stored
+inside this repository.
+
+![Gatekeeper screenshot 1](../../imports/pdf_extract/assets/image-0025.png)
+![Gatekeeper screenshot 2](../../imports/pdf_extract/assets/image-0031.png)
+![Gatekeeper screenshot 3](../../imports/pdf_extract/assets/image-0037.png)
+![Gatekeeper screenshot 4](../../imports/pdf_extract/assets/image-0042.png)
+![Gatekeeper screenshot 5](../../imports/pdf_extract/assets/image-0048.png)
+![Gatekeeper screenshot 6](../../imports/pdf_extract/assets/image-0053.png)
+![Gatekeeper screenshot 7](../../imports/pdf_extract/assets/image-0058.png)
+
 ## Approach
 1. Register and log in as a normal user and observe fake flag behavior.
 2. Download and decompile `auth.wasm` using `wasm2wat`.
