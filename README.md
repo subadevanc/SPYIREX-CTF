@@ -6,8 +6,6 @@ Engineering.
 
 All flags follow the format `JCE{...}`.
 
-![FLAG OVER FLOW event banner](./imports/pdf_extract/assets/image-0012.png)
-
 ## Event Snapshot
 
 - Date: 24 January 2026
@@ -19,7 +17,7 @@ All flags follow the format `JCE{...}`.
 
 - [Reverse Engineering](./Reverse%20Engineering/README.md)
 - [Web](./Web/README.md)
-- [Steganography](./Steganography/README.md)
+- [Steganography](./Steganography/)
 - [Forensics](./Forensics/README.md)
 - [Imported PDF Artifacts](./imports/pdf_extract/README.md)
 

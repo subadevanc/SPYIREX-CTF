@@ -1,24 +1,15 @@
-# Point Break
+Doom By Doom
+When the video plays, nothing stands out.
+When the video stops, everything changes.
 
-## Category
-Steganography
+Playback hides what static reveals.
+Moments matter more than motion.
 
-## Points
-400
+Look beyond the video itself — break it down.
 
-## Description
-The battle shook Asgard and corrupted its archive.
-A mysterious ZIP carries something valuable, but brute force alone will not
-smash it open.
+Flag format: JCE{...}
 
-Extract carefully, listen to the rhythm, and let logic guide you.
-Flag format: `JCE{...}`
+https://drive.google.com/file/d/1vnUUPipteTQOpWRq1eLiUrhV0E4nc4KT/view?usp=sharing
 
-## Challenge File
-- `Pointbreak.zip`: https://github.com/user-attachments/files/24836029/Pointbreak.zip
+Author: Subadevan C
 
-## Preview Image
-<img width="1024" height="1024" alt="thor" src="https://github.com/user-attachments/assets/0cd88a3a-22df-4409-b8cf-f4787dbcb2ca" />
-
-## Author
-Subadevan C
