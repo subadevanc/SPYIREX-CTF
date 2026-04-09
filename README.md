@@ -6,6 +6,8 @@ Engineering.
 
 All flags follow the format `JCE{...}`.
 
+![FLAG OVER FLOW event banner](./imports/pdf_extract/assets/image-0012.png)
+
 ## Event Snapshot
 
 - Date: 24 January 2026

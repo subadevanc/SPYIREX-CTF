@@ -9,6 +9,15 @@ Easy
 ## Challenge Summary
 You are given an Android APK (`spyirex.apk`) that asks for a password and prints a flag when the password is correct.
 
+## Screenshots
+
+These screenshots are extracted from the original event PDF pages for this
+challenge.
+
+![Mission Override screenshot 1](../../imports/pdf_extract/assets/image-0025.png)
+![Mission Override screenshot 2](../../imports/pdf_extract/assets/image-0031.png)
+![Mission Override screenshot 3](../../imports/pdf_extract/assets/image-0037.png)
+
 ## Approach
 1. Decompile the APK with `jadx-gui`.
 2. Search for `MainActivity` and inspect the password validation method.

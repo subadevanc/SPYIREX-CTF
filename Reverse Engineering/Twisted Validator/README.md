@@ -10,6 +10,13 @@ Medium
 Given `twisted_validator.py`, recover the original flag by reversing a chain of byte operations:
 XOR mixing, byte rotation, adjacent-byte swapping, and LCG-derived keys.
 
+## Screenshots
+
+Reference images from the original PDF section:
+
+![Twisted Validator screenshot 1](../../imports/pdf_extract/assets/image-0075.png)
+![Twisted Validator screenshot 2](../../imports/pdf_extract/assets/image-0080.png)
+
 ## Reverse Strategy
 The forward validator pipeline was reversed in opposite order:
 1. XOR with reversed key2
