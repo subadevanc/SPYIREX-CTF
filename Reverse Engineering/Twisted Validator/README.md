@@ -14,8 +14,6 @@ This challenge is all about Linear Congruential Generator (LCG), XORs, reversibl
 
 ## Initial Analysis
 
-![Twisted Validator screenshot 1](../../imports/extract/assets/image-0075.png)
-
 The `FlagChecker` class has several methods:
 - `_mix()`: XOR operation with a key
 - `_rotate()`: Rotates bytes by n positions
