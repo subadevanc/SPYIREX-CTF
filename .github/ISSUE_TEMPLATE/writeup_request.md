@@ -20,4 +20,4 @@ Describe the missing sections (summary, steps, script, flag, etc.).
 
 ## References
 
-Share links to source materials (drive links, screenshots, PDF pages).
+Share links to source materials (drive links, screenshots, documentation).

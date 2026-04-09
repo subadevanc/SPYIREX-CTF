@@ -19,7 +19,7 @@ All flags follow the format `JCE{...}`.
 - [Web](./Web/README.md)
 - [Steganography](./Steganography/)
 - [Forensics](./Forensics/README.md)
-- [Imported PDF Artifacts](./imports/pdf_extract/README.md)
+- [Imported Materials](./imports/README.md)
 
 ## Challenge Index
 
@@ -38,13 +38,13 @@ All flags follow the format `JCE{...}`.
 - Use clear section headers: `Summary`, `Approach`, `Flag`.
 - Preserve external links for original assets where applicable.
 
-## Imported Material
+## Imported Materials
 
-The source PDF extraction set is available under:
+Source materials are available under:
 
-- `imports/pdf_extract/source.pdf`
-- `imports/pdf_extract/text/pdf_text_raw.txt`
-- `imports/pdf_extract/assets/`
+- `imports/source.pdf`
+- `imports/text/text_raw.txt`
+- `imports/assets/`
 
 ## Maintainer Notes
 

@@ -15,13 +15,10 @@ Target site from event writeup:
 
 ## Screenshots
 
-The original screenshots were extracted from the uploaded PDF and are now stored
-inside this repository.
-
-![Gatekeeper screenshot 1](../../imports/pdf_extract/assets/image-0042.png)
-![Gatekeeper screenshot 2](../../imports/pdf_extract/assets/image-0048.png)
-![Gatekeeper screenshot 3](../../imports/pdf_extract/assets/image-0053.png)
-![Gatekeeper screenshot 4](../../imports/pdf_extract/assets/image-0058.png)
+![Gatekeeper screenshot 1](../../imports/assets/image-0042.png)
+![Gatekeeper screenshot 2](../../imports/assets/image-0048.png)
+![Gatekeeper screenshot 3](../../imports/assets/image-0053.png)
+![Gatekeeper screenshot 4](../../imports/assets/image-0058.png)
 
 ## Approach
 1. Register and log in as a normal user and observe fake flag behavior.
@@ -59,4 +56,4 @@ WASM_IS_FOR_NERDY_PWNERS
 `JCE{Y0Ur_A_N3rDY_R3_H3R0!!}`
 
 ## Source
-Imported from `imports/pdf_extract/text/pdf_text_raw.txt`.
+Event writeup materials.
