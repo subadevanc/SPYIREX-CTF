@@ -1,0 +1,25 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python cache/artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Build/temporary outputs
+dist/
+build/
+*.log
+tmp/
+temp/
+
+# CTF local extraction scratch
+*.tmp
+*.bak
